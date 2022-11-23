@@ -1,2 +1,1 @@
-# Towards Realistic Underwater Dataset Generation and Color
-Restoration
+# Towards Realistic Underwater Dataset Generation and Color Restoration
